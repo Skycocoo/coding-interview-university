@@ -953,17 +953,17 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
             - [more flavor](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
 
 - ### Design patterns
-    - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
+    - [x] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [ ] strategy
-        - [ ] singleton
+        - [x] singleton
         - [ ] adapter
         - [ ] prototype
         - [ ] decorator
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [x] observer
         - [ ] proxy
         - [ ] delegate
         - [ ] command
